@@ -11,7 +11,7 @@ import {
   FolderOpen,
   ChevronLeft,
   X,
-  Building2,
+  // Building2,
 } from "lucide-react";
 import { useAuthStore } from "@/store";
 import { cn } from "@/lib/utils";
