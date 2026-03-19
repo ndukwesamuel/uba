@@ -11,7 +11,6 @@ import {
   FolderOpen,
   ChevronLeft,
   X,
-  // Building2,
 } from "lucide-react";
 import { useAuthStore } from "@/store";
 import { cn } from "@/lib/utils";
@@ -144,7 +143,6 @@ function SidebarContent({
       >
         <div className="flex items-center gap-3">
           <div className="w-10 h-10 bg-white rounded-lg flex items-center justify-center flex-shrink-0">
-            {/* <Building2 className="w-6 h-6 text-white" /> */}
             <img
               src="https://www.ubagroup.com/wp-content/uploads/2022/03/logo.svg"
               alt=""
